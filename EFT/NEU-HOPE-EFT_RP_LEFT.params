@@ -1,0 +1,7 @@
+run_id __EFT-RP
+instruction_schedule media/instructions/EFT_instruct_schedule_RP_L.csv
+select_1 '4'
+select_2 '3'
+select_3 '2'
+select_4 '1'
+practice True

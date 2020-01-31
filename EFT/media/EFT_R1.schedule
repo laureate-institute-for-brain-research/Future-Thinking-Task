@@ -1,0 +1,13 @@
+Trial Type, cue_word1,cue_word2, cue_word3,iti_duration
+a,Negative_Cue_1,Negative_Cue_2,Negative_Cue_3,11
+c,Neutral_Cue_1,Neutral_Cue_2,Neutral_Cue_3,10
+b,Positive_Cue_1,Positive_Cue_2,Positive_Cue_3,6
+d,MOUNTAIN,LIME,SOIL,11
+c,Neutral_Cue_1,Neutral_Cue_2,Neutral_Cue_3,3
+a,Negative_Cue_1,Negative_Cue_2,Negative_Cue_3,11
+b,Positive_Cue_1,Positive_Cue_2,Positive_Cue_3,11
+d,CAT,GRASS,TABLE,6
+d,FOREST,STONE,DOOR,7
+a,Negative_Cue_1,Negative_Cue_2,Negative_Cue_3,4
+c,Neutral_Cue_1,Neutral_Cue_2,Neutral_Cue_3,6
+b,Positive_Cue_1,Positive_Cue_2,Positive_Cue_3,9

@@ -1,0 +1,7 @@
+run_id __EFT-R1
+instruction_schedule media/instructions/EFT_instruct_schedule_R1_L.csv
+select_1 'down'
+select_2 'up'
+select_3 'left'
+select_4 'right'
+practice False
